@@ -1,0 +1,9 @@
+[submodule "Salesforce-api-NodeJs"]
+	path = Salesforce-api-NodeJs
+	url = https://github.com/bitscoder/Salesforce-api-NodeJs.git
+[submodule "SalesForceApi-Insert-Update"]
+	path = SalesForceApi-Insert-Update
+	url = https://github.com/bitscoder/SalesForceApi-Insert-Update.git
+[submodule "Salesforce-api"]
+	path = Salesforce-api
+	url = https://github.com/bitscoder/Salesforce-api.git
